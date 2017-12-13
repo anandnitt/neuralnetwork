@@ -1,2 +1,2 @@
-# neuralnetwork
+# Indian Currency Detector
 detects indian currency
